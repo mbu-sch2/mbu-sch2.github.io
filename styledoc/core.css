@@ -1,0 +1,22 @@
+	/*общие настройки*/
+
+table			{border-spacing: 0px; width:100%; height: 100%; /*line-height: 18px;*/}
+
+body			{font-family: Arial, Expletus Sans; margin:0px; overflow-y: scroll; height: 100%;}
+
+a.s1, a.s2		{vertical-align: middle;}
+
+p.top 			{font-weight: 600; text-align: center;}
+td.menu 		{vertical-align: top;}
+td.menu table table 	{height: 350px;}
+td.menu table table td, td.styl {height: 50px; text-align: center; font-weight: 600;}
+td.main 		{vertical-align: top;}
+td.main p.s1 		{text-align: center; font-weight: 600; padding-top: 5;}
+td.main p.s2 		{text-align: center; font-weight: 600;}
+td.main p.s3 		{text-indent: 40;}
+td.main img 		{float: right;}
+
+
+
+
+
